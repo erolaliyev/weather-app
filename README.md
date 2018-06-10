@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App](https://github.com/erolaliyev/freeCodeCamp/blob/master/screenshots/weather-app.png)
+![Weather App](https://github.com/erolaliyev/weather-app/blob/master/images/weather-app.png)
 
 * User stories:
   * I can see the weather in my current location.
